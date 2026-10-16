@@ -1,0 +1,6 @@
+{
+  "name": "OOP Arena - Object-Oriented Simulation & Battle Lab",
+  "description": "Interactive battle simulation and live inspector demonstrating OOP core principles (Encapsulation, Inheritance, Polymorphism, Abstraction) and Design Patterns in TypeScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
